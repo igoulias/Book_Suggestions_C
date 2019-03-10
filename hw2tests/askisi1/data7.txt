@@ -1,0 +1,18 @@
+7
+Mr._William_Shakespeare's_Comedies,_Histories,_and_Tragedies:_A_Facsimile_of_the_First_Folio,_1623,__William_Shakespeare
+She_Was_Nice_To_Mice:_The_Other_Side_of_Elizabeth_I's_Character_Never_Before_Revealed_by_Previous_Historians,A.E._Sheedy  
+The_Hitchhiker's_Guide_To_The_Galaxy,Douglas_Adams
+Watership_Down,Richard_Adams
+The_Five_People_You_Meet_in_Heaven,Mitch_Albom
+Speak,Laurie_Halse_Anderson
+I_Know_Why_the_Caged_Bird_Sings,Maya_Angelou
+MyNameIsForYouToKnow 
+1 1 1 0 1 1 0
+ThisIsNotReallyAName
+0 3 3 0 3 0 0
+Anne
+1 1 1 1 1 1 0
+Mary
+1 0 1 1 0 1 0
+EndOfNames
+ThisIsNotReallyAName

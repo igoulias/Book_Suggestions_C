@@ -1,0 +1,28 @@
+Hi, what's your name? 
+Hello Sanity!
+
+User #29
+
+Cust8 100
+
+We recommend:
+	The_Hitchhiker's_Guide_To_The_Galaxy,Douglas_Adams
+	Speak,Laurie_Halse_Anderson
+	The_Sisterhood_of_the_Travelling_Pants,Ann_Brashares
+	The_Da_Vinci_Code,Dan_Brown
+	The_Princess_Diaries,Meg_Cabot
+	Inkheart,Cornelia_Funke
+	The_Princess_Bride,William_Goldman
+	To_Kill_a_Mockingbird,Harper_Lee
+	The_Bourne_Series,Robert_Ludlum
+	Twilight_Series,Stephenie_Meyer
+	Eragon,Christopher_Paolini
+	Hatchet,Gary_Paulsen
+	My_Sister's_Keeper,Jodi_Picoult
+	The_Golden_Compass,Philip_Pullman
+	Holes,Louis_Sachar
+	Bone_Series,Jeff_Smith
+	The_Lord_of_the_Rings,J_R_R_Tolkien
+	The_Hobbit,J_R_R_Tolkien
+	The_War_Of_The_Worlds,H_G_Wells
+	The_Chrysalids,John_Wyndham

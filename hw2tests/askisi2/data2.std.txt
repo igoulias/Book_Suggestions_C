@@ -1,0 +1,15 @@
+Hi, what's your name? 
+Hello John!
+
+User #3
+
+Alice 0
+
+We recommend:
+	The_Hitchhiker's_Guide_To_The_Galaxy,Douglas_Adams
+	Watership_Down,Richard_Adams
+	The_Five_People_You_Meet_in_Heaven,Mitch_Albom
+	Speak,Laurie_Halse_Anderson
+	I_Know_Why_the_Caged_Bird_Sings,Maya_Angelou
+	Thirteen_Reasons_Why,Jay_Asher
+	Foundation_Series,Isaac_Asimov
