@@ -8,4 +8,4 @@ Test cases and the proper outputs can be found in hw2tests folder.
 
 How to run: </br>
 1) Compile </br>
-2) ./hw2 < data1.txt
+2) ./hw2 < dataX.txt
